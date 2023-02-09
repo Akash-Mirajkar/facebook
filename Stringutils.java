@@ -1,0 +1,1 @@
+Contains string related functions
